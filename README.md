@@ -111,3 +111,22 @@ To show ticket statistics press button 6 from the main menu.
 
 **Exiting the Program**
 In order to leave the program, you must choose the option 7 from the main menu.
+
+
+
+
+# ReLU = Deep Learning
+## Pseudo Code
+1. Start
+2. Define the input and weights
+3. Define the function to make a prediction with the network
+4. Calculate node 0 in the first hidden layer
+5. Calculate node 1 in the first hidden layer
+6. Put node values into array: hidden_0_outputs
+7. Calculate node 0 in the second hidden layer
+8. Calculate node 1 in the second hidden layer
+9. Put node values into array: hidden_1_outputs
+10. Calculate model output: model_output
+11. Return model_output
+12. Call the predict_with_network() function and print the output
+13. Stop
