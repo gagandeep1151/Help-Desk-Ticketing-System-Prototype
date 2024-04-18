@@ -88,3 +88,26 @@ The following Python script creates a Ticket System in which users can create ti
 9. The program ends at the point where the user decides to terminate the system by entering 7 as an option.
 
 10. Stop
+
+
+
+# Instructions to Use
+To use this program, call main() in this program. It will show a display menu with options: create, view, respond to, and manage tickets.
+
+**Creating a Ticket**
+To create a ticket select option 1 from the main menu and enter information regarding the staff ID, creator's name, email address, and problem description. The program will now generate the ticket number which will be then added to the system.
+
+**Reopening a Ticket**
+In case a ticket is closed and needs to be opened again, select the option 2 from the main menu and enter the ticket number. Following this, the program will then look for the ticket with the given number, if found, and then reopen the ticket.
+
+**Responding to a Ticket**
+Provide response from ticket option 3 by entering the ticket number after selecting an option from the main menu. The program will then search among all the tickets for the one with the specified number, and, if it finds it, it will give the user an opportunity to enter a reaction. The ticket will then be marked as closed and taken out of the list of tickets that have not been resolved.
+
+**Displaying Tickets**
+In order to view the complete list of tickets, choose the fourth option from the primary menu. In case of showing information about a particular ticket, choose option 5 and type in the ticket number.
+
+**Displaying Ticket Statistics**
+To show ticket statistics press button 6 from the main menu.
+
+**Exiting the Program**
+In order to leave the program, you must choose the option 7 from the main menu.
