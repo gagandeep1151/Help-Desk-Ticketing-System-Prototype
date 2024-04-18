@@ -1,5 +1,5 @@
-# Programming Principles
-## Software Development Life-Cycle (SDLC)
+# Help Desk Ticketing System
+## Programming Principles - Software Development Life-Cycle (SDLC)
 The SDLC of Help Ticketing System goes through multiple key stages, which are very important for the success of the system.  
 
 The project team will be able to identify the requirements and resources that the system needs during the Planning Phase. This involves harnessing the views of stakeholders such as help desk personnel and users of the system to find out what they actually require and expect (Pressman, 2005). Furthermore, the team estimates the budget, timeline, and the hazards connected with the project. The team sets up a structured plan which is the basis for a functional development process.
