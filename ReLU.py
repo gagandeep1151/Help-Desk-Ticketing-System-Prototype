@@ -1,3 +1,11 @@
+def relu(input):
+    '''Define relu activation function here'''
+    # Calculate the value for the output of the relu function: output
+    output = max(input, 0)
+
+    # Return the value just calculated
+    return(output)
+   
 import numpy as np
 input_data = np.array([3, 5])
 weights = {
